@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown :: Sergios Web site</title>
+    <link>http://localhost:1313/markdown/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 14:02:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basico</title>
+      <link>http://localhost:1313/markdown/basico/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:02:42 +0200</pubDate>
+      <guid>http://localhost:1313/markdown/basico/index.html</guid>
+      <description>Títulos Para establercer los títulos usaré la siguiente&#xA;# título1 ## título2 ### título3 #### título4 ##### título5 ###### título6 Y se verá&#xA;título1 título2 título3 título4 título5 título6 Negrita y formato Para ver el texto en negrita escribo&#xA;***Texto en negrita*** Y se verí a así&#xA;Texto en negrita&#xA;Ver un video php es un lenguaje interesante y bonito accede a la web</description>
+    </item>
+  </channel>
+</rss>

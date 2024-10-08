@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Sergios Web site'
+
+theme = "relearn"
+
+
+[[params.themeVariant]]
+    identifier = 'zen-dark'
+
+
